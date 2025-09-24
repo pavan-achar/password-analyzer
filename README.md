@@ -6,7 +6,7 @@ Build a tool in Python that checks password strength based on a set of rules and
 actionable feedback to improve passwords.
 
 ## Files
-- `password_checker.py` : The main CLI and library.
+[password_checker.py](https://github.com/user-attachments/files/22505869/password_checker.py) : The main CLI and library.
 
 ## Rules & Scoring
 
